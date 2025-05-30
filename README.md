@@ -55,13 +55,13 @@ Some of the technologies we cover include (but are not limited to):
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/deep-knowledge.git
+   git clone https://github.com/DeepKnowledge1/<repo_name>
    ```
 
 2. **Navigate to the project folder:**
 
    ```bash
-   cd deep-knowledge
+   cd repo_name
    ```
 
 3. **Follow the specific README or instructions for each project/tutorial inside the repo.**
