@@ -9,7 +9,7 @@ Welcome to **Deep Knowledge** – your go-to hub for mastering **AI, Machine Lea
 
 
 <center>
-<img src="banner.png" alt="deep knowledge"  />
+<img src="YT banner.png" alt="deep knowledge"  />
 
 </center>
 ---
