@@ -47,23 +47,45 @@ Whether you're starting your journey or deepening your expertise, our content co
 
 ### 🎓 Complete Learning Paths
 
-#### [**AnomaVision**](https://github.com/DeepKnowledge1/AnomaVision)
+#### 🔍 [**AnomaVision**](https://github.com/DeepKnowledge1/AnomaVision)
 End-to-end anomaly detection system for computer vision applications. Learn to build production-ready models for identifying defects and anomalies in images using advanced deep learning techniques.
 
-#### [**PyTorch: Zero to Production**](https://github.com/DeepKnowledge1/pytorch-zero-to-production)
+**Topics:** Anomaly Detection • Defect Detection • Quality Control • Computer Vision
+
+---
+
+#### 🔥 [**PyTorch: Zero to Production**](https://github.com/DeepKnowledge1/pytorch-zero-to-production)
 Comprehensive PyTorch course covering everything from basics to deploying models in production. Master neural networks, CNNs, RNNs, transformers, and MLOps practices.
 
-#### [**Industrial Anomaly Detection MLOps**](https://github.com/DeepKnowledge1/industrial_anodet_mlops)
+**Topics:** PyTorch • Deep Learning • Neural Networks • Model Deployment
+
+---
+
+#### 🏭 [**Industrial Anomaly Detection MLOps**](https://github.com/DeepKnowledge1/industrial_anodet_mlops)
 Production-grade MLOps pipeline for industrial anomaly detection. Includes CI/CD, model versioning, monitoring, and deployment strategies for real-world manufacturing scenarios.
 
-#### [**Python for Computer Vision**](https://github.com/DeepKnowledge1/Python_for_CV)
+**Topics:** MLOps • CI/CD • Manufacturing • Production Systems
+
+---
+
+#### 👁️ [**Python for Computer Vision**](https://github.com/DeepKnowledge1/Python_for_CV)
 Foundation course for computer vision with Python. Learn image processing, feature extraction, object detection, and segmentation using OpenCV and modern deep learning frameworks.
 
-#### [**Machine Learning Fundamentals**](https://github.com/DeepKnowledge1/ml)
+**Topics:** Computer Vision • OpenCV • Image Processing • Object Detection
+
+---
+
+#### 🧠 [**Machine Learning Fundamentals**](https://github.com/DeepKnowledge1/ml)
 Complete guide to machine learning algorithms and techniques. Cover supervised and unsupervised learning, model evaluation, feature engineering, and practical implementations.
 
-#### [**Azure Machine Learning**](https://github.com/DeepKnowledge1/azure-ml)
+**Topics:** ML Algorithms • Supervised Learning • Unsupervised Learning • Feature Engineering
+
+---
+
+#### ☁️ [**Azure Machine Learning**](https://github.com/DeepKnowledge1/azure-ml)
 Master Azure ML services for scalable machine learning solutions. Learn to train, deploy, and manage models on Azure cloud with best practices for enterprise deployments.
+
+**Topics:** Azure ML • Cloud Computing • Model Deployment • Enterprise AI
 
 ---
 
